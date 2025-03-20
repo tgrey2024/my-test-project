@@ -1,10 +1,4 @@
 
 body{
     background-color: lightgrey;
-    background-image: url("../images/background-img.jpg");
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-p{
-    font-weight: bold;
 }
